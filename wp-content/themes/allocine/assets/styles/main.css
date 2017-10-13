@@ -30,3 +30,11 @@ header#header{
   height: auto;
   float:left;
 }
+article{
+  margin-top:20px;
+  margin-bottom:20px;
+}
+.thumbnail img{
+  max-width: 100%;
+  height: auto;
+}
