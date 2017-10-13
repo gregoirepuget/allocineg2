@@ -5,14 +5,21 @@
     <h1 class="col-sm-12">Derniers films</h1>
   </div>
   <div class="row">
-  <?php  $the_query = new WP_Query( $args );
+  <?php
+  $args= array(
+    'post_type' => 'film',
+    'posts_per_page' => 6
+
+
+  );
+  $the_query = new WP_Query( $args );
 
     // The Loop
     if ( $the_query->have_posts() ) {
         while ( $the_query->have_posts() ) {
             $the_query->the_post();
     ?>
-      <article class="col-sm-12 col-md-4">
+      <article class="col-sm-12 col-md-6">
         <div class="thumbnail">
           <?php
             if(has_post_thumbnail())
@@ -34,7 +41,7 @@
   </div>
   <div class="row pagination">
     <div class="col-sm-12">
-      <?php wp_pagenavi(); ?>
+      <?php wp_pagenavi(array( 'query' => $the_query )); ?>
     </div>
   </div>
 </div> <!-- /content -->
