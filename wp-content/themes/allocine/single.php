@@ -11,7 +11,7 @@
         while (have_posts()){
             the_post();
     ?>
-      <article class="col-sm-12 col-md-4">
+      <article class="col-sm-12">
         <div class="thumbnail">
           <?php
             if(has_post_thumbnail())
@@ -22,7 +22,7 @@
         </div>
         <h1><a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a></h1>
         <h2>Posté le <?php the_time('F jS, Y') ?></h2>
-        <p><?php the_excerpt(); ?></p>
+        <p><?php the_content(); ?></p>
       </article>
 
     <?php
