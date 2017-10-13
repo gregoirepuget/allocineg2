@@ -10,7 +10,11 @@ wp_enqueue_script('bootstrap_script');
 wp_register_script('main_js', get_template_directory_uri() . '/assets/scripts/main.js', array('jquery'),'1.1', true);
 wp_enqueue_script('main_js');
 
+
 // enregistrement des styles
+wp_register_style( 'google_font', 'https://fonts.googleapis.com/css?family=Anton|Oxygen' );
+wp_enqueue_style( 'google_font' );
+
 wp_register_style( 'bootstrap_style', get_template_directory_uri() . '/assets/styles/bootstrap.min.css' );
 wp_enqueue_style( 'bootstrap_style' );
 
