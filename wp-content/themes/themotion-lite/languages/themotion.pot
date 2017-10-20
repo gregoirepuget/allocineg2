@@ -1,0 +1,1194 @@
+# Copyright (C) 2017 ThemeIsle
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: TheMotion 1.2.5\n"
+"Report-Msgid-Bugs-To: https://github.com/Codeinwp/themotion/issues\n"
+"POT-Creation-Date: 2017-09-19 09:02:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Themeisle Translate Team <friends@themeisle.com>\n"
+"Language-Team: Themeisle Translate <friends@themeisle.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:25
+msgid "Can&rsquo;t find what you&rsquo;re looking for?"
+msgstr ""
+
+#: 404.php:26
+msgid "Try using the search form below!"
+msgstr ""
+
+#: archive-download.php:48 archive.php:48 inc/customizer.php:1134
+#: inc/extras.php:267 inc/extras.php:320
+#: inc/features/feature-about-page.php:813 index.php:49 search.php:53
+msgid "Older Posts"
+msgstr ""
+
+#: archive-download.php:49 archive.php:49 inc/customizer.php:1135
+#: inc/extras.php:268 inc/extras.php:321
+#: inc/features/feature-about-page.php:814 index.php:50 search.php:54
+msgid "Newer Posts"
+msgstr ""
+
+#: comments.php:48 comments.php:83
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53 comments.php:86
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:59 comments.php:92
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:107
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:33 inc/features/feature-copyright-controls.php:22
+#. translators: 1: Theme Name, 2: WordPress
+msgid "Proudly powered by  %1$s | Theme: themotion powered by %2$s"
+msgstr ""
+
+#: footer.php:34 inc/features/feature-copyright-controls.php:23
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:35 inc/features/feature-copyright-controls.php:24
+msgid "Themeisle"
+msgstr ""
+
+#: functions.php:65
+msgid "Primary"
+msgstr ""
+
+#: functions.php:155
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:157 inc/init-pro.php:34
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:168
+#. translators: Footer area id
+msgid "Footer Widget Area %d"
+msgstr ""
+
+#: functions.php:255
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:256
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:343 template-parts/content-single-download.php:51
+#: template-parts/content-single.php:58
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:574 functions.php:576
+msgid "About TheMotion"
+msgstr ""
+
+#: functions.php:579
+#. translators: s - theme name
+msgid "Welcome to %s! - Version "
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"TheMotion is a clean and elegant WordPress theme primarily made for video "
+"sites, and it can also be a perfect fit for blogs or portfolio websites. It "
+"features a beautiful slider, classy light colors, and a modern appearance. "
+"Its stylish and minimalist design makes it multipurpose, ready to fit any "
+"kind of website."
+msgstr ""
+
+#: functions.php:589
+msgid "Getting Started"
+msgstr ""
+
+#: functions.php:590
+msgid "Useful Plugins"
+msgstr ""
+
+#: functions.php:591 inc/customizer-pro/customizer-theme-info.php:45
+msgid "Support"
+msgstr ""
+
+#: functions.php:592 functions.php:616 functions.php:619
+msgid "Changelog"
+msgstr ""
+
+#: functions.php:593
+msgid "Free vs PRO"
+msgstr ""
+
+#: functions.php:598 functions.php:601
+msgid "Contact Support"
+msgstr ""
+
+#: functions.php:600
+msgid ""
+"We want to make sure you have the best experience using TheMotion, and that "
+"is why we have gathered all the necessary information here for you. We hope "
+"you will enjoy using TheMotion as much as we enjoy creating great products."
+msgstr ""
+
+#: functions.php:607 functions.php:648
+msgid "Documentation"
+msgstr ""
+
+#: functions.php:609 functions.php:647
+msgid ""
+"Need more details? Please check our full documentation for detailed "
+"information on how to use TheMotion."
+msgstr ""
+
+#: functions.php:610 functions.php:646
+msgid "Read full documentation"
+msgstr ""
+
+#: functions.php:618
+msgid ""
+"Want to get the gist on the latest theme changes? Just consult our "
+"changelog below to get a taste of the recent fixes and features implemented."
+msgstr ""
+
+#: functions.php:625
+msgid "Create a child theme"
+msgstr ""
+
+#: functions.php:627
+msgid ""
+"If you want to make changes to the theme's files, those changes are likely "
+"to be overwritten when you next update the theme. In order to prevent that "
+"from happening, you need to create a child theme. For this, please follow "
+"the documentation below."
+msgstr ""
+
+#: functions.php:628 functions.php:637
+msgid "View how to do this"
+msgstr ""
+
+#: functions.php:634
+msgid "Speed up your site"
+msgstr ""
+
+#: functions.php:636
+msgid ""
+"If you find yourself in a situation where everything on your site is "
+"running very slowly, you might consider having a look at the documentation "
+"below where you will find the most common issues causing this and possible "
+"solutions for each of the issues."
+msgstr ""
+
+#: functions.php:655 functions.php:657
+msgid "Go to the Customizer"
+msgstr ""
+
+#: functions.php:656
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: functions.php:670
+#. translators: s - theme name
+msgid "Get %s now!"
+msgstr ""
+
+#: functions.php:673
+msgid "Mobile friendly"
+msgstr ""
+
+#: functions.php:674
+msgid "Responsive layout. Works on every device."
+msgstr ""
+
+#: functions.php:679
+msgid "Quality Support"
+msgstr ""
+
+#: functions.php:680
+msgid "24/7 HelpDesk Professional Support"
+msgstr ""
+
+#: functions.php:685
+msgid "Fully Customizable Colors"
+msgstr ""
+
+#: functions.php:686
+msgid "Change colors for the header overlay, header text and navbar."
+msgstr ""
+
+#: functions.php:691
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: functions.php:692
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr ""
+
+#: functions.php:697
+msgid "Two frontpage templates."
+msgstr ""
+
+#: functions.php:698
+msgid "Alternate page template to display your posts."
+msgstr ""
+
+#: functions.php:706
+msgid "Already activated"
+msgstr ""
+
+#: functions.php:707
+msgid "Version: "
+msgstr ""
+
+#: functions.php:708
+msgid "Install and Activate"
+msgstr ""
+
+#: functions.php:709
+msgid "Activate"
+msgstr ""
+
+#: functions.php:710
+msgid "Deactivate"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:30
+#. translators: 1: Date, 2: Category
+msgid "Published on %1$s in %2$s"
+msgstr ""
+
+#: image.php:41
+#. translators: 1: Parent post link, 2: title attribute, 3: Post title
+msgid "Return to "
+msgstr ""
+
+#: image.php:56
+#. translators: 1: Attachement url, 2: Title attribute, 3: Resolution, 4:
+#. Width, 5: Height
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:57
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:73 inc/features/feature-homepage-b.php:664
+#: page-templates/template-about-us.php:65
+#: page-templates/template-homepage-one.php:56
+#: template-parts/content-single-download.php:33
+#: template-parts/content-single.php:26
+#. translators: date
+msgid "Edit"
+msgstr ""
+
+#: image.php:94
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:95
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: image.php:104 template-parts/content-contact.php:28
+#: template-parts/content-home-two.php:69 template-parts/content-page.php:19
+#: template-parts/content-single-download.php:63
+#: template-parts/content-single.php:70 template-parts/content.php:72
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer-category-selector/class-themotion-category-selector.php:34
+msgid "All"
+msgstr ""
+
+#: inc/customizer-palette/class/class-themotion-palette.php:57
+#: inc/customizer-palette/class/class-themotion-palette.php:74
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:24
+#: inc/customizer-pro/customizer-theme-info.php:49
+msgid "View PRO version"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:42
+msgid "New frontpage template"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:43
+msgid "About Page template"
+msgstr ""
+
+#: inc/customizer-pro/customizer-theme-info.php:44
+msgid "WPML/Polylang compatibility"
+msgstr ""
+
+#: inc/customizer-repeater/class/class-themotion-general-repeater.php:63
+msgid "Add new field"
+msgstr ""
+
+#: inc/customizer-repeater/class/class-themotion-general-repeater.php:68
+msgid "Customizer Repeater"
+msgstr ""
+
+#: inc/customizer-repeater/class/class-themotion-general-repeater.php:178
+#: inc/customizer-repeater/class/class-themotion-general-repeater.php:223
+#: inc/customizer.php:337 inc/features/feature-footer-content.php:166
+msgid "Text"
+msgstr ""
+
+#: inc/customizer-repeater/class/class-themotion-general-repeater.php:187
+#: inc/customizer-repeater/class/class-themotion-general-repeater.php:232
+msgid "Link"
+msgstr ""
+
+#: inc/customizer-repeater/class/class-themotion-general-repeater.php:203
+#: inc/customizer-repeater/class/class-themotion-general-repeater.php:241
+msgid "Delete field"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Add new social icon"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Hide social icons?"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "If you check this box, the social icons will disappear from Contact page."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page Option A"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Top Section Post Category"
+msgstr ""
+
+#: inc/customizer.php:109 inc/customizer.php:255
+#: inc/features/feature-homepage-b.php:514 inc/frontpage-pro-functions.php:125
+#: page-templates/template-about-us.php:26
+#: page-templates/template-homepage-one.php:36
+msgid "Recently Posted"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Bottom posts title"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Bottom posts category"
+msgstr ""
+
+#: inc/customizer.php:152 inc/features/feature-homepage-b.php:557
+msgid "Number of posts"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Contact page"
+msgstr ""
+
+#: inc/customizer.php:169 inc/features/feature-about-page.php:28
+#: inc/features/feature-homepage-b.php:29
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:186 inc/features/feature-about-page.php:45
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer.php:196 inc/frontpage-sections.php:17
+msgid "FEEL FREE TO CONTACT US WITH ANY QUESTIONS OR COMMENTS"
+msgstr ""
+
+#: inc/customizer.php:204 inc/features/feature-about-page.php:63
+#: inc/features/feature-homepage-b.php:46
+msgid "Header text"
+msgstr ""
+
+#: inc/customizer.php:213 inc/customizer.php:694 inc/frontpage-sections.php:18
+msgid "Send us an email"
+msgstr ""
+
+#: inc/customizer.php:221 inc/features/feature-about-page.php:80
+#: inc/features/feature-homepage-b.php:63
+msgid "Button text"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Latest posts"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Hide latest posts?"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "If you check this box, latest posts will disappear from About page."
+msgstr ""
+
+#: inc/customizer.php:263 inc/features/feature-footer-content.php:149
+#: inc/features/feature-homepage-b.php:522
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:280 inc/features/feature-homepage-b.php:122
+#: inc/features/feature-homepage-b.php:539
+msgid "Category"
+msgstr ""
+
+#: inc/customizer.php:297 inc/features/feature-about-page.php:96
+#: inc/features/feature-homepage-b.php:79
+#: inc/features/feature-homepage-b.php:403
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid "Content Left Settings"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "WHY THE MOTION"
+msgstr ""
+
+#: inc/customizer.php:321 inc/customizer.php:362
+msgid "Block Title"
+msgstr ""
+
+#: inc/customizer.php:329 inc/features/feature-about-page.php:162
+#: inc/frontpage-pro-functions.php:337 inc/frontpage-sections.php:72
+msgid ""
+"Using best practices and a keen eye, we curated this video feed for the "
+"business beginner and experienced alike. We are a resource for creatives "
+"wanting to push their business forward."
+msgstr ""
+
+#: inc/customizer.php:346
+msgid "Content Right Settings"
+msgstr ""
+
+#: inc/customizer.php:354 inc/frontpage-sections.php:73
+msgid "Get in touch"
+msgstr ""
+
+#: inc/customizer.php:370 inc/frontpage-sections.php:74
+msgid "The.Motion Headquarters"
+msgstr ""
+
+#: inc/customizer.php:378
+msgid "Left side title"
+msgstr ""
+
+#: inc/customizer.php:386 inc/frontpage-sections.php:75
+msgid "329 South Street Court - Albany, NY 83741"
+msgstr ""
+
+#: inc/customizer.php:394
+msgid "Left side text"
+msgstr ""
+
+#: inc/customizer.php:403 inc/features/feature-footer-content.php:104
+#: inc/features/feature-footer-content.php:323 inc/frontpage-sections.php:76
+#: template-parts/footer-content.php:32
+msgid "start@example.com"
+msgstr ""
+
+#: inc/customizer.php:411
+msgid "Left side email"
+msgstr ""
+
+#: inc/customizer.php:419 inc/frontpage-sections.php:77
+msgid "(432) 203-3321"
+msgstr ""
+
+#: inc/customizer.php:427
+msgid "Left side phone"
+msgstr ""
+
+#: inc/customizer.php:435 inc/frontpage-sections.php:78
+msgid "THE.MOTION VIDEO RECORDING"
+msgstr ""
+
+#: inc/customizer.php:443
+msgid "Right side title"
+msgstr ""
+
+#: inc/customizer.php:451 inc/frontpage-sections.php:79
+msgid "153 East Fifth Avenue - New York, NY 83741"
+msgstr ""
+
+#: inc/customizer.php:459
+msgid "Right side text"
+msgstr ""
+
+#: inc/customizer.php:468 inc/frontpage-sections.php:80
+msgid "recording@example.com"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Right side email"
+msgstr ""
+
+#: inc/customizer.php:484 inc/frontpage-sections.php:81
+msgid "(324) 923-8321"
+msgstr ""
+
+#: inc/customizer.php:492 inc/customizer.php:500
+msgid "Right side phone"
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Display featured images on single posts"
+msgstr ""
+
+#: inc/customizer.php:888
+msgid "Loading New Posts..."
+msgstr ""
+
+#: inc/customizer.php:1061 inc/extras.php:190
+msgid "Placeholder image"
+msgstr ""
+
+#: inc/features/class-themotion-page-header-meta-box.php:38
+#: inc/features/class-themotion-page-header-meta-box.php:68
+msgid "Hide page header"
+msgstr ""
+
+#: inc/features/class-themotion-page-header-meta-box.php:58
+msgid "Check if you want to hide page header: "
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "About page"
+msgstr ""
+
+#: inc/features/feature-about-page.php:55 inc/frontpage-pro-functions.php:282
+msgid "We are curators striving to help you Put Business In Motion"
+msgstr ""
+
+#: inc/features/feature-about-page.php:72
+#: inc/features/feature-about-page.php:589
+#: inc/features/feature-homepage-b.php:55
+#: inc/features/feature-homepage-b.php:203
+#: inc/features/feature-homepage-b.php:229 inc/frontpage-pro-functions.php:14
+#: inc/frontpage-pro-functions.php:107 inc/frontpage-pro-functions.php:283
+msgid "See all videos"
+msgstr ""
+
+#: inc/features/feature-about-page.php:105
+msgid "Content Area Settings"
+msgstr ""
+
+#: inc/features/feature-about-page.php:113 inc/frontpage-pro-functions.php:334
+msgid "Our mission"
+msgstr ""
+
+#: inc/features/feature-about-page.php:121
+msgid "Block One Headline"
+msgstr ""
+
+#: inc/features/feature-about-page.php:129 inc/frontpage-pro-functions.php:335
+msgid ""
+"We are a resource for creatives wanting to push their business forward. "
+"Using best practices and a keen eye, we curated this video feed for the "
+"business beginner and experienced alike."
+msgstr ""
+
+#: inc/features/feature-about-page.php:137
+msgid " Block One Paragraph"
+msgstr ""
+
+#: inc/features/feature-about-page.php:146 inc/frontpage-pro-functions.php:336
+msgid "Why the motion"
+msgstr ""
+
+#: inc/features/feature-about-page.php:154
+msgid "Block Two Headline"
+msgstr ""
+
+#: inc/features/feature-about-page.php:170
+msgid " Block Two Paragraph"
+msgstr ""
+
+#: inc/features/feature-about-page.php:180
+msgid "Stats Settings"
+msgstr ""
+
+#: inc/features/feature-about-page.php:196
+msgid "Hide all statistics?"
+msgstr ""
+
+#: inc/features/feature-about-page.php:197
+msgid "If you check this box, statistics will disappear from header."
+msgstr ""
+
+#: inc/features/feature-about-page.php:213
+msgid "Stat one number"
+msgstr ""
+
+#: inc/features/feature-about-page.php:222 inc/frontpage-pro-functions.php:427
+msgid "Users"
+msgstr ""
+
+#: inc/features/feature-about-page.php:230
+msgid "Stat one text"
+msgstr ""
+
+#: inc/features/feature-about-page.php:246
+msgid "Stat two number"
+msgstr ""
+
+#: inc/features/feature-about-page.php:255 inc/frontpage-pro-functions.php:429
+msgid "Videos"
+msgstr ""
+
+#: inc/features/feature-about-page.php:263
+msgid "Stat two text"
+msgstr ""
+
+#: inc/features/feature-about-page.php:279
+msgid "Stat three number"
+msgstr ""
+
+#: inc/features/feature-about-page.php:288 inc/frontpage-pro-functions.php:431
+msgid "Likes"
+msgstr ""
+
+#: inc/features/feature-about-page.php:296
+msgid "Stat three text"
+msgstr ""
+
+#: inc/features/feature-about-page.php:312
+msgid "Stat four number"
+msgstr ""
+
+#: inc/features/feature-about-page.php:321 inc/frontpage-pro-functions.php:433
+msgid "Shares"
+msgstr ""
+
+#: inc/features/feature-about-page.php:329
+msgid "Stat four text"
+msgstr ""
+
+#: inc/features/feature-about-page.php:338
+msgid "Testimony Settings"
+msgstr ""
+
+#: inc/features/feature-about-page.php:354
+msgid "Hide testimony?"
+msgstr ""
+
+#: inc/features/feature-about-page.php:355
+msgid "If you check this box, Testimony section will disappear."
+msgstr ""
+
+#: inc/features/feature-about-page.php:372
+msgid "Avatar"
+msgstr ""
+
+#: inc/features/feature-about-page.php:381 inc/frontpage-pro-functions.php:608
+msgid ""
+"In Motion has helped me grow my business by over 10% in the past month. The "
+"videos are helpful, easy to follow and are beautifully made. Overall this "
+"is a fantastic resource!"
+msgstr ""
+
+#: inc/features/feature-about-page.php:389
+#: inc/features/feature-homepage-b.php:369
+msgid "Paragraph"
+msgstr ""
+
+#: inc/features/feature-about-page.php:398 inc/frontpage-pro-functions.php:609
+msgid "ASH S. - SMALL BUSINESS OWNER"
+msgstr ""
+
+#: inc/features/feature-about-page.php:406
+msgid "Byline"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:31
+msgid "Change the color scheme"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:33
+msgid "To create your own color palette select \"Custom\" option."
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:48
+msgid "Color 1"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:51
+msgid "Color for sidebar titles and hovers (buttons, links etc.)"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:65
+msgid "Color 2"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:68
+msgid "Main color ( section background, icons, links etc.)"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:82
+msgid "Color 3"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:85
+msgid "Sidebar background color"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:99
+msgid "Color 4"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:102
+msgid "Background color of playlist on Home Page Option A template"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:116
+msgid "Color 5"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:119
+msgid "Background color of playing video on Home Page Option A template"
+msgstr ""
+
+#: inc/features/feature-copyright-controls.php:33
+msgid "Copyright"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:20
+msgid "Footer Options"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:21
+msgid ""
+"The following settings affect the footer on all pages, see the Widgets > "
+"Main Widget Area panel to add the Helpful Links."
+msgstr ""
+
+#: inc/features/feature-footer-content.php:29
+msgid "Featured Video Settings"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:40
+#: template-parts/footer-content.php:10
+msgid "Learn More About Us By Watching"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:47
+msgid "Featured Video Header"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:63
+#: inc/features/feature-homepage-b.php:87
+msgid "Featured Video"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:75
+msgid "Quick Contact Settings"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:85
+#: template-parts/footer-content.php:26
+msgid "Quick Contact"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:92
+msgid "Quick Contact Header"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:108
+#: inc/features/feature-footer-content.php:327
+#: template-parts/footer-content.php:36
+msgid "123-456-7890"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:120
+msgid "Add new contact link"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:132
+msgid "Call To Action Settings"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:141
+#: template-parts/footer-content.php:89
+msgid "Videos Delivered"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:158
+#: template-parts/footer-content.php:90
+msgid "Videos delivered to your inbox the day we post."
+msgstr ""
+
+#: inc/features/feature-footer-content.php:175
+#: inc/features/feature-footer-content.php:374
+#: inc/features/feature-homepage-a-ribbon.php:58
+#: inc/features/feature-homepage-a-ribbon.php:161
+#: inc/features/feature-homepage-b.php:378
+#: inc/features/feature-homepage-b.php:483 inc/frontpage-pro-functions.php:146
+#: template-parts/footer-content.php:91 template-parts/ribbon-content.php:21
+msgid "Subscribe"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:183
+#: inc/features/feature-homepage-a-ribbon.php:66
+#: inc/features/feature-homepage-b.php:386
+msgid "Button Text"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:200
+#: inc/features/feature-homepage-a-ribbon.php:82
+msgid "Button Link"
+msgstr ""
+
+#: inc/features/feature-homepage-a-ribbon.php:31
+msgid "Hide ribbon on Homepage A?"
+msgstr ""
+
+#: inc/features/feature-homepage-a-ribbon.php:32
+msgid "If you check this box, the banner from Homepage A will disappear."
+msgstr ""
+
+#: inc/features/feature-homepage-a-ribbon.php:41
+#: inc/features/feature-homepage-b.php:38
+#: inc/features/feature-homepage-b.php:228 inc/frontpage-pro-functions.php:13
+#: inc/frontpage-pro-functions.php:106 template-parts/ribbon-content.php:20
+msgid ""
+"A collection of high quality videos focused on putting your business in "
+"motion."
+msgstr ""
+
+#: inc/features/feature-homepage-a-ribbon.php:49
+msgid "Banner Headline"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page Option B"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:104
+msgid "Hide videos on Homepage B?"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:105
+msgid "If you check this box, videos from Homepage B will disappear."
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:337
+msgid "Call To Action"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:345 inc/frontpage-pro-functions.php:144
+msgid "A CREATIVE + HELPFUL RESOURCE"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:353
+msgid "Headline"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:361 inc/frontpage-pro-functions.php:145
+msgid ""
+"We are a resource for creatives wanting to push their business forward. "
+"Using best practices and a keen eye, we curate this video feed for the "
+"business beginner and experienced alike."
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:506
+msgid "Bottom Posts"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:693
+#. translators: %1$s is link to plugin
+msgid "To have access to this section please install and configure %1$s."
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:698
+#. translators: %1$s is url to plugin, %2$s is plugin name
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:704
+msgid "Shop section"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:720
+msgid "Disable section"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:726
+msgid "Edit this section title in customizer"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:738
+msgid "Section Title"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:755
+msgid "Shop categories"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:773
+msgid "Number of Items"
+msgstr ""
+
+#: inc/features/feature-search-toggle.php:28
+msgid "Hide search icon?"
+msgstr ""
+
+#: inc/features/feature-search-toggle.php:29
+msgid "If you check this box, the search icon will disappear from header."
+msgstr ""
+
+#: inc/frontpage-pro-functions.php:216
+#. translators: %1$s is link to customizer
+msgid "Edit this section title in %1$s"
+msgstr ""
+
+#: inc/frontpage-pro-functions.php:221
+#. translators: %1$s is url to customizer, %2$s is customizer
+msgid "customizer"
+msgstr ""
+
+#: inc/frontpage-sections.php:71
+msgid "Why the.motion"
+msgstr ""
+
+#: inc/frontpage-sections.php:367
+msgid ","
+msgstr ""
+
+#: inc/frontpage-sections.php:373
+msgid "Show more categories"
+msgstr ""
+
+#: inc/frontpage-sections.php:374
+msgid "..."
+msgstr ""
+
+#: inc/init-pro.php:32
+msgid "Footer Single Widget Area"
+msgstr ""
+
+#: inc/template-tags.php:53 inc/template-tags.php:60
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:56
+#. translators: Categories list
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:63
+#. translators: Tags list
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:72
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:86 template-parts/content-contact.php:40
+#: template-parts/content-page.php:31
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#: page-templates/template-about-us.php:60
+msgid "See All Posts >"
+msgstr ""
+
+#: search.php:20
+#. translators: Search query
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar-footer.php:14
+msgid "Widgets Area 1"
+msgstr ""
+
+#: sidebar-footer.php:23
+msgid "Widgets Area 2"
+msgstr ""
+
+#: sidebar-footer.php:32
+msgid "Widgets Area 3"
+msgstr ""
+
+#: template-parts/content-home-two.php:56 template-parts/content.php:59
+#. translators: %s: Name of current post.
+msgid "Read more %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-none-b.php:25
+msgid "Example  post"
+msgstr ""
+
+#: template-parts/content-none-b.php:31
+msgid ""
+"This is an example post and it is displayed only for admins. To display "
+"this section on your website, please add a new post."
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Sorry, nothing found!"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#. translators: Link to new post
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/footer-content.php:66
+msgid "Default widget"
+msgstr ""
+
+#: template-parts/footer-content.php:68
+msgid ""
+"To change this, add your widget in Customize -> Widgets -> Footer Single "
+"Widget Area"
+msgstr ""
+
+#: template-parts/footer-content.php:70
+#. translators: Link to customizer control
+msgid ""
+"To change this, add your widget in <a class=\"link-to-customizer\" "
+"href=\"%s\">Customize -> Widgets</a> -> Footer Single Widget Area ."
+msgstr ""
+
+#: ti-about-page/class-themeisle-about-page.php:1073
+msgid "Activating"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "TheMotion"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/themotion"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr ""
+
+#: comments.php:33
+#. translators: 1: post title
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:199
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:206
+#. Translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+msgctxt "Cabin font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/custom-header.php:42
+msgctxt "header image description"
+msgid "Default image"
+msgstr ""
+
+#: inc/template-tags.php:30
+#. translators: Posted date
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:36
+#. translators: Author link
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: searchform.php:10 searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""

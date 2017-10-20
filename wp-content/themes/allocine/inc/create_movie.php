@@ -32,6 +32,16 @@ $labels = array(
       'has_archive'         => false,
       'query_var'           => true,
       'can_export'          => true,
+      /*'capabilities' => array(
+                        'edit_post'          => 'edit_movie',
+                        'read_post'          => 'read_movie',
+                        'delete_post'        => 'delete_movie',
+                        'edit_posts'         => 'edit_movies',
+                        'edit_others_posts'  => 'edit_others_movies',
+                        'publish_posts'      => 'publish_movies',
+                        'read_private_posts' => 'read_private_movies',
+                        'create_posts'       => 'edit_movies',
+                      ),*/
       'rewrite'             => array( 'slug' => $post_type )
   );
 
