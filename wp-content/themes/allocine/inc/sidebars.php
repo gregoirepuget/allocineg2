@@ -10,6 +10,6 @@ $args = array(
 'before_title' => '<h2 class="widgettitle">',
 'after_title' => '</h2>' );
 
-register_sidebars(2, $args);
+register_sidebars(4, $args);
 }
 add_action( 'widgets_init', 'theme_slug_widgets_init' );
